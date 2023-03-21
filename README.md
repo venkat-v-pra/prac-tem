@@ -1,3 +1,2 @@
-# prac-tem
-
-Click Element    path://h1[id="Veatesh"]
+Install the pycharm latest version
+read the files
