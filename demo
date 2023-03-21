@@ -5,3 +5,6 @@ Library SeleiumLibrary
 *** Keywords ***
 Logs
     Log    "Jai Balayya"
+    Log to consoe    "clone it"
+    
+    
